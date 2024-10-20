@@ -20,6 +20,14 @@ This platform empowers three key actors:
 - **Employees** – Providing feedback and managing their day-to-day responsibilities.
 - **Citizens** – Actively engaging with city services and providing feedback.
 
+**Tech Stack & Tools Used**:
+- 💻 **Frontend**: React.js, HTML5, CSS3, JavaScript
+- ⚙️ **Backend**: Express.js, Node.js
+- 🗄️ **Database**: MongoDB
+- 🌐 **APIs & Integrations**: RESTful API for communication between components
+- 🛠️ **Version Control**: Git & GitHub
+- ☁️ **Deployment**: AWS / Heroku for cloud deployment
+
 🌍 We're shaping the future of Panadura by embracing smart technologies to build a more sustainable and efficient city.
 
 
@@ -27,4 +35,4 @@ https://github.com/user-attachments/assets/e43fcda4-8606-48b6-a2cd-03aaa9739eab
 
 
 
-#SmartCity #UrbanInnovation #DigitalTransformation #MunicipalManagement #Panadura #SmartGovernance #TechForGood
+#SmartCity #UrbanInnovation #DigitalTransformation #MunicipalManagement #Panadura #SmartGovernance #TechForGood #ReactJS #NodeJS #MongoDB #APIs
